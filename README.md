@@ -25,7 +25,7 @@ This repository includes a short tutorial in the notebook: **`pyspark_tutorial_w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pyspark-playground.git
+   git clone https://github.com/AlefRP/pyspark-playground.git
    ```
 2. Open the notebook **`pyspark_tutorial_with_examples.ipynb`** in Jupyter Notebook or Google Colab.
 3. Follow the examples, tweak the code, and see what happens—learning by doing is the best way!
